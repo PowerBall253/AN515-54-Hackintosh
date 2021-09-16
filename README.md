@@ -1,7 +1,7 @@
 
 # Acer Nitro 5 AN515-54 Hackintosh
 
-macOS Big Sur on Acer Nitro 5 AN515-54 with OpenCore 0.7.2 EFI folder.
+macOS Big Sur on Acer Nitro 5 AN515-54 with OpenCore 0.7.3 EFI folder.
 
 ## Configuration
 
